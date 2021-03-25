@@ -10,8 +10,8 @@ I am a Full Stack Web Developer from Ironhack web development bootcamp with Phys
 
 
 
-![Damla's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakockar&theme=onedark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakockar&theme=onedark&hide=shell&hide_title=true)](https://github.com/dakockar/github-readme-stats)
+![Damla's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakockar&theme=onedark&show_icons=true&line_height=24)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakockar&theme=onedark&hide=shell&hide_title=true&layout=compact)](https://github.com/dakockar/github-readme-stats)
 
 
 
