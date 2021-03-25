@@ -8,6 +8,11 @@ I am a Full Stack Web Developer from Ironhack web development bootcamp with Phys
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/damlakockar/)
 - ⚡ Fun fact: I love singing, making music with my guitar, and creating music and sound effects for video games 🎸🤘🎤🎵
 
+
+
+![Damla's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakockar&theme=onedark&show_icons=true)
+
+
 <!--
 **dakockar/dakockar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
