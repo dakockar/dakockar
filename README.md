@@ -7,11 +7,11 @@ I am a Full Stack Web Developer from Ironhack web development bootcamp with Phys
 - 👯 I’m looking to collaborate on React front end or full stack (MERN) projects.
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/damlakockar/)
 - ⚡ Fun fact: I love singing, making music with my guitar, and creating music and sound effects for video games 🎸🤘🎤🎵
+<br>
+<br>
 
-
-
-![Damla's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakockar&theme=onedark&show_icons=true&line_height=24)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakockar&theme=onedark&hide=shell&hide_title=true&layout=compact)](https://github.com/dakockar/github-readme-stats)
+![Damla's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakockar&theme=onedark&show_icons=true&line_height=24&hide_border=true)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakockar&theme=onedark&hide=shell&hide_title=true&layout=compact&hide_border=true)](https://github.com/dakockar/github-readme-stats)
 
 
 
