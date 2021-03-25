@@ -11,7 +11,7 @@ I am a Full Stack Web Developer from Ironhack web development bootcamp with Phys
 
 
 ![Damla's GitHub stats](https://github-readme-stats.vercel.app/api?username=dakockar&theme=onedark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakockar&theme=onedark&layout=compact&langs_count=8&hide=shell)](https://github.com/dakockar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dakockar&theme=onedark&hide=shell&hide_title)](https://github.com/dakockar/github-readme-stats)
 
 
 
