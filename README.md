@@ -2,8 +2,8 @@
 
 I am a Full Stack Web Developer from Ironhack web development bootcamp with Physics and Information Systems background.
 
-- 🚀 In March, I have completed a 9-week, intensive, full stack web development bootcamp at Ironhack.
-- 🌱 I’m currently working on a project to improve my experience in Vue.
+- 🚀 In March 2021, I have completed a 9-week, intensive, full stack web development bootcamp at Ironhack.
+- 🌱 Since April 2021, I've been working as a frontend developer, and developing the frontend part of big scale full stack projects using Vue.js.
 - 👯 I’m looking to collaborate on front end (with React or Vue) or full stack (MERN or MEVN) projects.
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/damlakockar/)
 - ⚡ Fun fact: I love singing, making music with my guitar, and creating music and sound effects for video games 🎸🤘🎤🎵
